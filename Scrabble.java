@@ -1,3 +1,5 @@
+/*Take in a list of words and sort them by how many points they would earn in the game of Scrabble, with the lowest scoring words being outputted first. If two words have the same Scrabble score, then they should be sorted in alphabetical order. Letters in Scrabble earn the following points:
+*/
 import java.util.*;
 public class Scrabble {
     
